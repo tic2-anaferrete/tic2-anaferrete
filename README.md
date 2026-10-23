@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**tic2-anaferrete/tic2-anaferrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Portafolio Digital de TIC II
+**Alumno/a:** [Ana Ferrete Durán]
+**Curso:** 2º de Bachillerato | **Asignatura:** TIC II
+## Presentación
+Bienvenido/a a mi portafolio digital de la asignatura TIC II. En este espacio organizaré y
+publicaré las prácticas, proyectos de desarrollo web, programas e investigaciones del
+curso.
+## Índice de Contenidos
+* **UD1:** Desarrollo de Software y Programación
+* **UD2:** Desarrollo y Publicación Web
+* **UD3:** Ciberseguridad, Redes y Privacida
